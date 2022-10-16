@@ -1,1 +1,1 @@
-# site-alura-store
+# Alura Store
